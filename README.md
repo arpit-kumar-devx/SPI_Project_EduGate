@@ -9,7 +9,7 @@ MERN (MongoDB, Express.js, React.js, Node.js) + Bootstrap 5.2
 **Project Type:** 
 Client-side project for **REC Mirzapur**  
 **Outcome:** 
-Graded **A++** for successful delivery and team leadership  
+Graded **A+** for successful delivery and team leadership  
 
 ---
 
@@ -46,7 +46,7 @@ EduGate/
 ## Installation & Setup 
 
 **Clone the Repository:**  
-git clone https://github.com/shaan08/SPI_Project_EduGate.git
+git clone  
 
 cd EduGate
 
@@ -80,7 +80,7 @@ npm start
 ---
 
 ## Contributors
-Shantanu Srivastava
+Arpit Kumar
 Worked with a 10-member team during summer internship/training program at Softpro India Computer Technologies Pvt. Ltd.
 
 ---
