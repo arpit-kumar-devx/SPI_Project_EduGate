@@ -12,30 +12,30 @@ Outcome: Graded A+ for successful delivery and team leadership
 
 # Features
 
-Student Admission & Registration – Online application system with Admin approval
+- Student Admission & Registration – Online application system with Admin approval
 
-Student & Faculty Information Management – Secure and structured record handling
+- Student & Faculty Information Management – Secure and structured record handling
 
-Course & Session Management – Easy addition and updates of courses/sessions
+- Course & Session Management – Easy addition and updates of courses/sessions
 
-Enquiry Management – Students/Public can raise and track enquiries
+- Enquiry Management – Students/Public can raise and track enquiries
 
-Email/SMS Notifications – Automated updates on status changes
+- Email/SMS Notifications – Automated updates on status changes
 
-Payment Gateway (Demo) – Simulated fee payment system
+- Payment Gateway (Demo) – Simulated fee payment system
 
-Role-Based Dashboards – Separate views for Admin and Students
+- Role-Based Dashboards – Separate views for Admin and Students
 
 # Tech Stack
-Frontend: React.js, Bootstrap 5.2, CSS3, HTML5
+- Frontend: React.js, Bootstrap 5.2, CSS3, HTML5
 
-Backend: Node.js, Express.js
+- Backend: Node.js, Express.js
 
-Database: MongoDB (Mongoose ODM)
+- Database: MongoDB (Mongoose ODM)
 
-Version Control: Git & GitHub
+- Version Control: Git & GitHub
 
-Other Tools: Nodemailer (Email), SMS Gateway, Payment Gateway (dummy integration)
+- Other Tools: Nodemailer (Email), SMS Gateway, Payment Gateway (dummy integration)
 
 # Project Structure :
 
@@ -65,20 +65,20 @@ Frontend Setup: cd frontend npm install npm start
 Arpit Kumar Worked with a 10-member team during summer internship/training program at Softpro India Computer Technologies Pvt. Ltd.
 
 # Project Status
-Completed during 60-day Summer Internship & Training (June–August 2025)
+- Completed during 60-day Summer Internship & Training (June–August 2025)
 
-Delivered successfully for REC Mirzapur
+- Delivered successfully for REC Mirzapur
 
-Graded A+ for performance and teamwork
+- Graded A+ for performance and teamwork
 
 # Future Scope
-Android App Development
+- Android App Development
 
-Deployment on a dedicated server
+- Deployment on a dedicated server
 
-Advanced authentication & role management
+- Advanced authentication & role management
 
-Analytics dashboard for insights
+- Analytics dashboard for insights
 
 # Acknowledgement
 Special thanks to Softpro India Computer Technologies Pvt. Ltd. for providing training, mentorship, and the opportunity to work on this live project.
