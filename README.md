@@ -46,7 +46,7 @@ EduGate/
 ## Installation & Setup 
 
 **Clone the Repository:**  
-git clone  
+git clone  https://github.com/arpit-kumar-devx/SPI_Project_EduGate.git
 
 cd EduGate
 
@@ -88,7 +88,7 @@ Worked with a 10-member team during summer internship/training program at Softpr
 ## Project Status
 - Completed during 60-day Summer Internship & Training (June–August 2025)
 - Delivered successfully for REC Mirzapur
-- Graded A++ for performance and teamwork
+- Graded A+ for performance and teamwork
 
 ---
 
