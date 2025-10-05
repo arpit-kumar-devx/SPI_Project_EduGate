@@ -13,9 +13,15 @@ Outcome: Graded A++ for successful delivery and team leadership
 #Features
 
 Student Admission & Registration – Online application system with Admin approval
+
 Student & Faculty Information Management – Secure and structured record handling
+
 Course & Session Management – Easy addition and updates of courses/sessions
+
 Enquiry Management – Students/Public can raise and track enquiries
+
 Email/SMS Notifications – Automated updates on status changes
+
 Payment Gateway (Demo) – Simulated fee payment system
+
 Role-Based Dashboards – Separate views for Admin and Students
