@@ -8,7 +8,7 @@ Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js) + Bootstrap 5.2
 
 Project Type: Client-side project for REC Mirzapur
 
-Outcome: Graded A++ for successful delivery and team leadership
+Outcome: Graded A+ for successful delivery and team leadership
 
 # Features
 
