@@ -1,0 +1,55 @@
+.admin-dashboard {
+  padding: 20px;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: black;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.dashboard-tabs {
+  margin-bottom: 15px;
+}
+
+.tab-btn {
+  border: 1px solid #ff6633;
+  background: white;
+  color: #ff6633;
+  padding: 8px 16px;
+  margin-right: 5px;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.tab-btn.active {
+  background: #ff6633;
+  color: white;
+}
+
+.table th {
+  background-color: #ff6633;
+  color: white;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+}
+
+.modal-box {
+  background: white;
+  padding: 20px;
+  max-width: 500px;
+  margin: 100px auto;
+  border-radius: 6px;
+}

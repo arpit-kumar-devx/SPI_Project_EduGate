@@ -1,0 +1,194 @@
+.student-dashboard {
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.dashboard-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #000;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+}
+
+.dashboard-header h2 {
+  color: #ff6633;
+  margin: 0;
+}
+
+.dashboard-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+.tab-btn {
+  background: white;
+  border: 2px solid #ff6633;
+  color: #ff6633;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.tab-btn:hover {
+  background: #ff6633;
+  color: white;
+  transform: translateY(-2px);
+}
+
+.tab-btn.active {
+  background: #ff6633;
+  color: white;
+}
+
+.dashboard-content {
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Profile Section */
+.profile-card {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  border-left: 4px solid #ff6633;
+}
+
+.profile-card h5 {
+  color: #ff6633;
+  margin-bottom: 15px;
+}
+
+.profile-card p {
+  margin-bottom: 8px;
+}
+
+/* Notices Section */
+.notices-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.notice-card {
+  background: #fff3e0;
+  padding: 20px;
+  border-radius: 8px;
+  border-left: 4px solid #ff6633;
+}
+
+.notice-card h5 {
+  color: #ff6633;
+  margin-bottom: 10px;
+}
+
+/* Events Section */
+.events-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.event-card {
+  background: #e8f5e8;
+  padding: 20px;
+  border-radius: 8px;
+  border-left: 4px solid #28a745;
+}
+
+.event-card h5 {
+  color: #28a745;
+  margin-bottom: 10px;
+}
+
+/* Enquiry Section */
+.enquiry-form-card {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+}
+
+.enquiries-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.enquiry-card {
+  background: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.enquiry-card h6 {
+  color: #ff6633;
+  margin-bottom: 8px;
+}
+
+/* Fees Section */
+.fees-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.fee-card {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.fee-card h6 {
+  color: #ff6633;
+  margin-bottom: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .student-dashboard {
+    padding: 15px;
+  }
+  
+  .dashboard-header {
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+  }
+  
+  .dashboard-tabs {
+    justify-content: center;
+  }
+  
+  .tab-btn {
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+}
+
+/* Loading and Error States */
+.text-danger {
+  color: #dc3545 !important;
+  font-weight: 500;
+}
+
+.badge {
+  font-size: 0.8em;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
