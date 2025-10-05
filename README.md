@@ -43,7 +43,8 @@ EduGate/ │── backend/ # Express.js APIs & DB models │── frontend/ # 
 
 # Installation & Setup
 Clone the Repository:
-git clone https://github.com/ 
+git clone  ttps://github.com/arpit-kumar-devx/SPI_Project_EduGate.git
+
 
 cd EduGate
 
